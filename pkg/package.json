@@ -1,0 +1,14 @@
+{
+  "name": "initia_solver",
+  "collaborators": [
+    "okeyzero <48344256+okeyzero@users.noreply.github.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "initia_solver_bg.wasm",
+    "initia_solver.js",
+    "initia_solver.d.ts"
+  ],
+  "main": "initia_solver.js",
+  "types": "initia_solver.d.ts"
+}
